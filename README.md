@@ -31,6 +31,8 @@ Guide to Install Python Packages in Rhino8: https://developer.rhino3d.com/guides
 # Documentation
 ![03_Documentation](https://github.com/shreykapur97/oxpecker/assets/75476502/ad72ac1e-3efa-478d-a46d-c03e4c0cf365)
 
+# FAQs
+![04_FAQs](https://github.com/shreykapur97/oxpecker/assets/75476502/a9052613-6219-47de-9e70-017b763e7b6a)
 
 # Contact Support
 shreykapur97@gmail.com
@@ -38,3 +40,4 @@ I am alone in this, It's just me and my 8 Cups of coffee against the world.
 I might take some time but I will respond to any issues. 
 Thank you for your patience!
 Cheers
+
