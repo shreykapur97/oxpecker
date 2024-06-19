@@ -7,6 +7,7 @@ Install the required plugins & Packages First, Then Download & Extract to "User 
 **Oxpecker Download**: 
 https://tinyurl.com/oxpecker01
 
+Note: Install these in the specific order
 **Grasshopper Dependencies (Plugins)**:
 Mesh Edit,
 Sasquatch 1.0.0,
@@ -19,7 +20,7 @@ pandas,
 numpy,
 ladybug-core
 
-Note: Install these in the specific order
+Guide to Install Python Packages in Rhino8: https://developer.rhino3d.com/guides/rhinopython/python-packages/
 
 # Installation
 - Make sure all the necessary plugins & dependencies are installed in the specific order.
