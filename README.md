@@ -9,4 +9,5 @@ This repository contains the code and resources for OXPECKER, a predictive envir
 shreykapur97@gmail.com
 I am alone in this, It's just me and my 8 Cups of coffee against the world. 
 I might take some time but I will respond to any issues. 
-Thank you for Your patience
+Thank you for your patience!
+Cheers
