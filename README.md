@@ -1,4 +1,4 @@
-# Download: Install the required plugins & Packages First, Then Download & Extract all files & folders as they are in the "User Object Folder"
+# Download: Install the required plugins & Packages First, Then Download & Extract to "User Object Folder"
 **Oxpecker Download**
 https://tinyurl.com/oxpecker01
 
