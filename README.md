@@ -1,21 +1,21 @@
-# Download: Install the required plugins & Packages First, Then Download & Extract to "User Object Folder"
-**Oxpecker Download**
+This repository contains the code and resources for OXPECKER, a predictive environment simulation tool for Rhino 8, Grasshopper &amp; Ladybug, focused on Direct Sun Hours &amp; Incident Radiation. 
+
+# Download Oxpecker
+Install the required plugins & Packages First, Then Download & Extract to "User Object Folder
+**Oxpecker Download**: 
 https://tinyurl.com/oxpecker01
 
-**Grasshopper Dependencies (Plugins)**
+**Grasshopper Dependencies (Plugins)**:
 Mesh Edit,
 Sasquatch,
 Python 3 Script Editor,
 Ladybug Tools
 
-**Python Dependencies (Packages)**
+**Python Dependencies (Packages)**:
 sci-kit-learn,
 pandas,
 numpy,
 ladybug-core
-
-# Oxpecker
-This repository contains the code and resources for OXPECKER, a predictive environment simulation tool for Rhino 8, Grasshopper &amp; Ladybug, focused on Direct Sun Hours &amp; Incident Radiation. 
 
 # Installation
 
